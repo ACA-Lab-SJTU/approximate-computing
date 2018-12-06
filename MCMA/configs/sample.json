@@ -1,0 +1,24 @@
+{
+    "train":
+    {
+        "iteration":4,
+        "batchSizeA":128,
+        "batchSizeC":128,
+        "epochA":2,
+        "epochC":5,
+        "dataUpdateType":2,
+        "errorType":"rootMeanSquareError",
+        "errorBound":0.05
+    },
+    "data":
+    {
+
+    },
+    "model":
+    {
+        "numA":2
+    },
+    "evaluate":
+    {
+    }
+}
