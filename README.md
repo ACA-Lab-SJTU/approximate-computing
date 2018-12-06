@@ -5,7 +5,7 @@ Source code for approximate computing related works, including one DAC paper and
 
 The original paper here: <https://arxiv.org/abs/1810.08379>
 
-code root:
+## Code Root
 
 ./MCMA
 
@@ -23,7 +23,7 @@ This is the source codes based on TensorFlow of the paper *AXNet: ApproXimate co
 
 arXiv: https://arxiv.org/abs/1807.10458
 
-code root:
+## Code Root
 
 ./AXNet
 
@@ -59,6 +59,6 @@ Original paper:
 
 https://dl.acm.org/citation.cfm?id=3062294
 
-code root:
+## Code Root
 
 ./iterative-training
